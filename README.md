@@ -7,6 +7,3 @@ CampusMart is a fully responsive ecommerce website, maximum compatiblities in al
 
 If you want to contact me you can reach me at [Twitter](https://www.twitter.com/iamkab1r).
 
-## License
-
-This project is **free to use** and does not contains any license.
